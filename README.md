@@ -1,0 +1,3 @@
+- 👋 Hi, I’m G
+- 👀 I’m interested in AI
+- 🌱 I’m currently learning SpringBoot, SpringCloud and algorithms
